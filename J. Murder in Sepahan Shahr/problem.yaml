@@ -1,0 +1,5 @@
+# Problem exported by DOMjudge on 2021-12-27T16:19:39+03:30
+name: 'Murder in Sepahan Shahr'
+validation: custom
+limits:
+    memory: 256
